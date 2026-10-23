@@ -1,0 +1,2 @@
+Python version: 3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]
+Platform: Linux-6.6.122+-x86_64-with-glibc2.39
